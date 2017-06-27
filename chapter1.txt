@@ -3,3 +3,9 @@ FUN with Git
 Add prolouge of the book
 
 TODO - Add some more stuff to the file
+
+Added some more nonsense
+
+Line 2
+
+another messy commit
