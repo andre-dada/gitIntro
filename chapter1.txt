@@ -1,6 +1,7 @@
 FUN with Git
 
 Add prolouge of the book
+<<<<<<< HEAD
 
 TODO - Add some more stuff to the file
 
@@ -9,3 +10,5 @@ Added some more nonsense
 Line 2
 
 another messy commit
+=======
+>>>>>>> parent of fd36f44... added line for summary
